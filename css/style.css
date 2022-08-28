@@ -1,0 +1,43 @@
+.main-pic{
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+}
+.nav-custom{
+    background-size: 100%;
+    text-align: right;
+}
+.card-custom{
+    margin: 40px 30px;
+    padding-right: 20px;
+    
+}
+.row1,.row2,.row3,.row4,.row5{
+    border-top: 1px solid gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+    
+}
+.flex1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.box{
+    height: 200px;
+    box-sizing: border-box;
+    
+}
+
+.pic{
+    
+    padding-bottom: 20px;
+}
+.btn-last{
+    background-color: white;
+    width: 400px;
+
+}
+
